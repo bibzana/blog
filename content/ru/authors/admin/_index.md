@@ -35,63 +35,72 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests:  
+  - Теоретическая математика  
+  - Механика сплошных сред  
+  - Компьютерное моделирование  
+  - Научные исследования  
+  - Программирование в математических вычислениях  
 
-education:
-  - area: Student
-    institution: RUDN
-    date_start: 2024-09-01
-    date_end: 2028-05-31
-    summary: 
-      
-work:
-  - position: Student
-    company_name: RUDN
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
-    summary: 
+education:  
+  - area: Student  
+    institution: RUDN  
+    date_start: 2024-09-01  
+    date_end: 2028-05-31  
+    summary: Студент направления "Математика и механика". Интересуюсь аналитическими методами в математике, численными методами и их применением в физике и инженерии.  
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Хард скиллы
-    items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Хобби
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+work:  
+  - position: Student  
+    company_name: RUDN  
+    company_url: ''  
+    company_logo: ''  
+    date_start: 2024-09-01  
+    date_end: ''  
+    summary: Участвую в математических и механических исследованиях, изучаю численные методы, математическое моделирование и симуляции физических процессов.  
 
-languages:
-  - name: Русский
-    percent: 100
-  - name: Английский
-    percent: 60
+# Skills  
+# Add your own SVG icons to assets/media/icons/  
+skills:  
+  - name: Хард скиллы  
+    items:  
+      - name: Линейная алгебра и анализ  
+        description: Глубокие знания в математическом анализе и алгебре.  
+        percent: 85  
+        icon: function  
+      - name: MATLAB  
+        description: Использование для математического моделирования и вычислений.  
+        percent: 75  
+        icon: code-bracket  
+      - name: Python (NumPy, SciPy)  
+        description: Численные методы и симуляции физических процессов.  
+        percent: 70  
+        icon: chart-bar  
+      - name: Дифференциальные уравнения  
+        description: Решение уравнений в прикладных задачах механики.  
+        percent: 80  
+        icon: equation  
+  - name: Хобби  
+    color: '#eeac02'  
+    color_border: '#f0bf23'  
+    items:  
+      - name: Шахматы  
+        description: Люблю анализировать партии и участвовать в турнирах.  
+        percent: 85  
+      - name: Программирование  
+        description: Пишу математические алгоритмы и исследовательские скрипты.  
+        percent: 80  
+      - name: Альпинизм  
+        description: Интересуюсь скалолазанием и покорением горных вершин.  
+        percent: 70  
+
+languages:  
+  - name: Русский  
+    percent: 100  
+  - name: Английский  
+    percent: 75  
+  - name: Немецкий  
+    percent: 40  
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
